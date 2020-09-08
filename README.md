@@ -1,6 +1,6 @@
 ### Hello there I am Constantine 👋
 
-##A marketeer that loves Front End Development.
+## A marketeer that loves Front End Development.
 
 ⚛️ I’m currently learning React JS
 
