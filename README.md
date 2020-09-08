@@ -1,4 +1,4 @@
-### Hi there I am Constantine 👋
+### Hello there I am Constantine 👋
 
 ##A marketeer that loves Front End Development.
 
