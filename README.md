@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I am Constantine 👋
 
-<!--
-**constantineMelios/constantineMelios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##A marketeer that loves Front End Development.
 
-Here are some ideas to get you started:
+⚛️ I’m currently learning React JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Looking for a role on Front End Development
+
+👯 I’m looking to collaborate on open source project for the 1st time
+
+🤔 I’m looking for help with doing all the above!
+
+📫 How to reach me: 
+* [e-mail](mailto:constantinemelios@gmail.com) 
+* [twitter](https://twitter.com/Melios_Cos)
+* [linkedin](https://www.linkedin.com/in/cmelios/)
