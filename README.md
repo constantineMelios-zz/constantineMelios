@@ -15,4 +15,6 @@
 * [twitter](https://twitter.com/Melios_Cos)
 * [linkedin](https://www.linkedin.com/in/cmelios/)
 
-[![Constantine's github stats](https://github-readme-stats.vercel.app/api?username=constantineMelios)](https://github.com/anuraghazra/github-readme-stats)
+[![Constantine's github stats](https://github-readme-stats.vercel.app/api?username=constantineMelios&count_private=true&theme=graywhite)](https://github.com/constantineMelios/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constantineMelios&layout=compact)](https://github.com/constantineMelios/github-readme-stats)
+[![Constantine's week stats](https://github-readme-stats.vercel.app/api/wakatime?username=constantineMelios)](https://github.com/constantineMelios/github-readme-stats)
