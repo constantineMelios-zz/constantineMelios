@@ -14,3 +14,5 @@
 * [e-mail](mailto:constantinemelios@gmail.com) 
 * [twitter](https://twitter.com/Melios_Cos)
 * [linkedin](https://www.linkedin.com/in/cmelios/)
+
+[![Constantine's github stats](https://github-readme-stats.vercel.app/api?username=constantineMelios)](https://github.com/anuraghazra/github-readme-stats)
