@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Constantine Melios</h1>
 <h3 align="center">A growing frontend developer from Greece</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently studying basic CS on Python
 
-- 👯 I’m looking to collaborate on **cool Front-end projects**
+- 👯 I’m looking to collaborate on **cool projects**
 
 - 📫 How to reach me **constantinemelios@gmail.com**
 
